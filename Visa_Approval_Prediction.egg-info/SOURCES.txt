@@ -1,7 +1,0 @@
-README.md
-setup.py
-Visa_Approval_Prediction.egg-info/PKG-INFO
-Visa_Approval_Prediction.egg-info/SOURCES.txt
-Visa_Approval_Prediction.egg-info/dependency_links.txt
-Visa_Approval_Prediction.egg-info/requires.txt
-Visa_Approval_Prediction.egg-info/top_level.txt
